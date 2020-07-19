@@ -1,10 +1,13 @@
 {
-  "name": "js-template",
+  "name": "rms",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Mik <mik23@protonmail.ch>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  }
+  "script": {
+    "start": "npm install; node index.js"
   }
 }

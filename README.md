@@ -1,2 +1,1 @@
-# js-template
-A template for my standard js projects
+# HAAACCCKEEERRRSSS WWWIIILLLL BBBEEEE FFFRRREEEEEE
